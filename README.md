@@ -1,1 +1,3 @@
-20203053, Chaewon Kim, Software
+20203053, Chaewon Kim
+Software
+Kookmin Univ.
